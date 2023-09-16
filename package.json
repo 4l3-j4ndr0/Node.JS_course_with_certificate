@@ -1,0 +1,26 @@
+{
+  "name": "node-js-crash-course",
+  "version": "1.0.0",
+  "description": "Node.JS course with certificate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4l3-j4ndr0/Node.JS_course_with_certificate.git"
+  },
+  "author": "Alejandro Rodas Cueto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4l3-j4ndr0/Node.JS_course_with_certificate/issues"
+  },
+  "homepage": "https://github.com/4l3-j4ndr0/Node.JS_course_with_certificate#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
